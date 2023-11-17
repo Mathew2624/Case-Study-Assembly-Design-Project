@@ -1,24 +1,22 @@
 
-
-<body>
-<h1>Case Study: Assembly Design Project</h1>
+<h1>Case Study: Concentricity Gauge Assembly Design Project</h1>
 
 <h2>Design Showcase:</h2>
-    <img src="path/to/your/image.png" alt="Assembly Design Showcase" style="max-width: 100%; height: auto;">
+<img src="path/to/your/image.png" alt="Concentricity Gauge Assembly Design Showcase" style="max-width: 100%; height: auto;">
 
 <h2>Objective:</h2>
-    <p>The objective of this assembly design project was to apply and demonstrate knowledge of common mechanical elements,
-        components, and principles. Specifically, the goal was to design an assembly using CATIA V5 that incorporates
-        various mechanical elements to create a specified mechanical system.</p>
+    <p>The objective of this concentricity gauge assembly design project was to apply and demonstrate knowledge of common
+        mechanical elements, components, and principles. Specifically, the goal was to design a concentricity gauge
+        assembly using CATIA V5 that incorporates various mechanical elements to create a specified mechanical system.</p>
 
- <h2>Background:</h2>
-    <p>In this project, the assigned task was to design an assembly that includes the following components: contact roller
-        holder, contact roller, thrust pin sample holder, carriage, base, carriage guide, short handle, long handle,
-        holder, pillar, and vertical handle.</p>
+<h2>Background:</h2>
+    <p>In this project, the assigned task was to design an assembly for a concentricity gauge. The components included:
+        contact roller holder, contact roller, thrust pin sample holder, carriage, base, carriage guide, short handle,
+        long handle, holder, pillar, and vertical handle.</p>
 
- <h2>Problem Statement:</h2>
-    <p>The challenge was to integrate these mechanical elements into a cohesive and functional assembly, considering
-        practical requirements associated with mechanical engineering design and manufacture.</p>
+<h2>Problem Statement:</h2>
+    <p>The challenge was to integrate these mechanical elements into a cohesive and functional concentricity gauge
+        assembly, considering practical requirements associated with mechanical engineering design and manufacture.</p>
 
 <h2>Approach:</h2>
     <ul>
@@ -67,12 +65,11 @@
     </ul>
 
 <h2>Conclusion:</h2>
-    <p>In conclusion, the assembly design project not only met the requirements of the assignment but also deepened
-        understanding in identifying and describing common mechanical elements, components, and principles. The
-        experience highlighted the practical considerations essential in mechanical engineering design and manufacturing
-        processes.</p>
+    <p>In conclusion, the concentricity gauge assembly design project not only met the requirements of the assignment but
+        also deepened understanding in identifying and describing common mechanical elements, components, and principles.
+        The experience highlighted the practical considerations essential in mechanical engineering design and
+        manufacturing processes.</p>
 
 </body>
 
 </html>
-
