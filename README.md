@@ -2,7 +2,7 @@
 <h1>Case Study: Concentricity Gauge Assembly Design Project</h1>
 
 <h2>Design Showcase:</h2>
-<img src="path/to/your/image.png" alt="Concentricity Gauge Assembly Design Showcase" style="max-width: 100%; height: auto;">
+<img src="path/to/your/image.png" alt="Concentricity Gauge Assembly Design Showcase" style="max-width: 100%; height: auto">
 
 <h2>Objective:</h2>
     <p>The objective of this concentricity gauge assembly design project was to apply and demonstrate knowledge of common
