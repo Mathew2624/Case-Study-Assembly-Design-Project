@@ -1,15 +1,10 @@
-# Case-Study-Assembly-Design-Project
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assembly Design Case Study</title>
-</head>
 
 <body>
 <h1>Case Study: Assembly Design Project</h1>
+
+<h2>Design Showcase:</h2>
+    <img src="path/to/your/image.png" alt="Assembly Design Showcase" style="max-width: 100%; height: auto;">
 
 <h2>Objective:</h2>
     <p>The objective of this assembly design project was to apply and demonstrate knowledge of common mechanical elements,
